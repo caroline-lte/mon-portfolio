@@ -1,5 +1,5 @@
 body {
-    background-color: #5c48d2;
+    background-color: #24176d;
     font-family: Verdana, tahoma, arial, sans-serif;
 font-size: 16px;
 }
@@ -69,7 +69,7 @@ section {
     height: 250px;
     width: 250px;
     border-radius:50%;
-    border: #fcc01a 2px solid;
+    border: #24176d 3px solid;
     object-fit: cover;
     margin-right: 80px;
 }
@@ -201,3 +201,7 @@ footer a:hover {
     color: #190f33;
 }
 
+.project-link {
+    margin-top: 20px;  /* Ajuste la valeur en fonction de l'espace que tu souhaites */
+  }
+  
